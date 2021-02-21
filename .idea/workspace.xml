@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/psr/link" />
@@ -125,6 +128,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1onxFMKVlWZEy2P4BXuCYFLqmoZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -144,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613936051015</updated>
-      <workItem from="1613936052381" duration="1162000" />
+      <workItem from="1613936052381" duration="1466000" />
     </task>
     <servers />
   </component>
